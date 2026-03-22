@@ -1,2 +1,0 @@
-// Store slices (e.g. Zustand) will be created here.
-// Example: export { useAuthStore } from './authStore';
